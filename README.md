@@ -4,6 +4,8 @@ My name is Andrew Steinborn. I'm a computer science student and ☕ enthusiast. 
 
 ✍️ I'm currently working on [Velocity](https://www.velocitypowered.com), [Crafthead](https://crafthead.net) and some other projects.
 
+🌱 I'm currently looking to learn Rust and improve my web design and development skills.
+
 💬 Outside of development and web design, I love to play video games, talk about history, write some creative fiction, read speculative fiction, science fiction, and non-fiction books (mostly history), and listen to music (I'm a well-listened man!)
 
 <!--
