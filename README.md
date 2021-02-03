@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Andrew Steinborn. I'm a computer science student and ☕ enthusiast. Most of my work has been with Minecraft, but I've dabbled in some other stuff too.
+My name is Andrew Steinborn. I'm a computer science student and ☕ enthusiast. Most of my work has been with Minecraft, but of course I've dabbled in some other stuff too.
 
-✍️ I'm currently working on [Velocity](https://www.velocitypowered.com), [Crafthead](https://crafthead.net) and some other projects.
+✍️ I'm currently working on [Velocity](https://velocitypowered.com), [Crafthead](https://crafthead.net) and some other projects. I am also as of February 2020 a developer with [Noxcrew](https://noxcrew.com).
 
-🌱 I'm currently looking to learn Rust and improve my web design and development skills.
+🌱 I'm currently looking to learn Rust and Kotlin.
 
 💬 Outside of development and web design, I love to play video games, talk about history, write some creative fiction, read speculative fiction, science fiction, and non-fiction books (mostly history), and listen to music (I'm a well-listened man!)
 
