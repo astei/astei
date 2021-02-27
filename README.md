@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-My name is Andrew Steinborn. I'm a computer science student and ☕ enthusiast. Most of my work has been with Minecraft, but of course I've dabbled in some other stuff too.
+My name is Andrew Steinborn. I'm a computer science student and ☕ enthusiast. While I have mostly done work with Minecraft, I've been moving away from it.
 
-✍️ I'm currently working on [Velocity](https://velocitypowered.com), [Crafthead](https://crafthead.net) and some other projects. I am also as of February 2020 a developer with [Branch](https://branch.gg).
+✍️ As of February 2020, I am a software engineer at [Branch](https://branch.gg).
+
+🔭 Some of the projects I work on on the side include [Velocity](https://velocitypowered.com) and [Crafthead](https://crafthead.net).
 
 🌱 I'm currently looking to learn Rust and Kotlin.
 
