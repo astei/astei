@@ -2,7 +2,7 @@
 
 My name is Andrew Steinborn. I'm a computer science student and ☕ enthusiast. While I have mostly done work with Minecraft, I've been moving away from it.
 
-✍️ As of February 2020, I am a software engineer at [Branch](https://branch.gg).
+✍️ As of February 2021, I am a software engineer at [Branch](https://branch.gg).
 
 🔭 Some of the projects I work on on the side include [Velocity](https://velocitypowered.com) and [Crafthead](https://crafthead.net).
 
