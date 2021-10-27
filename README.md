@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Andrew Steinborn. I'm a software engineer and ☕ enthusiast.
+My name is Andrew Steinborn (I use he/him pronouns). I'm a software engineer and ☕ enthusiast.
 
 ✍️ As of October 2021, I am currently looking for a job.
 
