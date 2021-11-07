@@ -6,7 +6,7 @@ My name is Andrew Steinborn (I use he/him pronouns). I'm a software engineer and
 
 🔭 Some of the projects I work on on the side include [Velocity](https://velocitypowered.com) and [Crafthead](https://crafthead.net).
 
-🌱 I'm currently looking to learn Rust and Kotlin.
+🌱 I'm currently looking to learn Rust and Elixir.
 
 💬 Outside of development and web design, I love to play video games, talk about history, write some creative fiction, read speculative fiction, science fiction, and non-fiction books (mostly history), and listen to music (I'm a well-listened man!)
 
