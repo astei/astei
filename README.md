@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there, how are you? 👋
 
-My name is Andrew Steinborn (I use he/him pronouns). I'm a software engineer and ☕ enthusiast.
+My name is Andrew Steinborn. I'm a software engineer and ☕ enthusiast.
 
-✍️ As of November 2021, I anticipate starting work at [Ramp](https://ramp.com) starting November 22nd.
+😄 Pronouns: _he/him_
+
+✍️ As of November 2021, I anticipate working as a backend software engineer at [Ramp](https://ramp.com) starting November 22nd.
 
 🔭 Some of the projects I work on on the side include [Velocity](https://velocitypowered.com) and [Crafthead](https://crafthead.net).
 
