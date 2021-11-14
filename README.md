@@ -2,7 +2,7 @@
 
 My name is Andrew Steinborn (I use he/him pronouns). I'm a software engineer and ☕ enthusiast.
 
-✍️ As of October 2021, I am currently looking for a job.
+✍️ As of November 2021, I anticipate starting work at [Ramp](https://ramp.com) starting November 22nd.
 
 🔭 Some of the projects I work on on the side include [Velocity](https://velocitypowered.com) and [Crafthead](https://crafthead.net).
 
