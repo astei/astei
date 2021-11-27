@@ -4,7 +4,7 @@ My name is Andrew Steinborn. I'm a software engineer and ☕ enthusiast.
 
 😄 Pronouns: _he/him_
 
-✍️ As of November 2021, I anticipate working as a backend software engineer at [Ramp](https://ramp.com) starting November 22nd.
+✍️ As of November 2021, I am a full-time backend software engineer at [Ramp](https://ramp.com), working as part of its Risk Engineering department.
 
 🔭 Some of the projects I work on on the side include [Velocity](https://velocitypowered.com) and [Crafthead](https://crafthead.net).
 
