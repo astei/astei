@@ -4,7 +4,7 @@ My name is Andrew Steinborn. I'm a software engineer and ☕ enthusiast.
 
 😄 Pronouns: _he/him_
 
-✍️ As of November 2021, I am a full-time backend software engineer at [Ramp](https://ramp.com) - I work mostly on [Bill Pay](https://billpay.com) and related systems.
+✍️ As of November 2021, I am a full-time software engineer at [Ramp](https://ramp.com) - I work mostly on [Bill Pay](https://billpay.com) and more specifically payments.
 
 🔭 Some of the projects I'm most notable for include [Velocity](https://velocitypowered.com) and [Crafthead](https://crafthead.net).
 
