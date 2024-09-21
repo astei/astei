@@ -4,9 +4,9 @@ My name is Andrew Steinborn. I'm a software engineer and ☕ enthusiast who live
 
 😄 Pronouns: _he/him_
 
-✍️ As of November 2021, I am a full-time senior software engineer at [Ramp](https://ramp.com). I've worked on both payments and card issuing - quite the departure from Minecraft, but you won't believe just how many transferable skills there are :)
+✍️ As of November 2021, I am a full-time staff software engineer at [Ramp](https://ramp.com). I've worked on both payments and card issuing - quite the departure from Minecraft, but you won't believe just how many transferable skills there are :)
 
-🔭 Some of the projects I'm most notable for include [Velocity](https://velocitypowered.com), a Minecraft proxy now maintained by the Paper team, and [Crafthead](https://crafthead.net), now maintained by Nodecraft.
+🔭 Some of the Minecraft projects I'm most notable for include [Velocity](https://velocitypowered.com), a Minecraft proxy now maintained by the Paper team, and [Crafthead](https://crafthead.net), now maintained by Nodecraft.
 
 💬 Outside of software development, I love to talk about history, write some creative fiction, read speculative fiction (particularly alternate history), science fiction, and non-fiction books (mostly history), and listen to music (I'm a well-listened man!)
 
