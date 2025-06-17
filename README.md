@@ -10,7 +10,7 @@ My name is Andrew Steinborn. I'm a software engineer and ☕ enthusiast who live
 
 💬 Outside of software development, I love to talk about history, write some creative fiction, read speculative fiction (particularly alternate history), science fiction, and non-fiction books (mostly history), and listen to music (I'm a well-listened man!)
 
-⚡ Fun fact for the train nerds: out of all the 16 U.S. rapid transit systems, I've been on 7 of them. Most recently, it was the Washington Metro, but obviously I take the New York City Subway frequently for work.
+⚡ Fun fact for the train nerds: out of all the 16 U.S. rapid transit systems, I've been on 8 of them. Most recently, it was BART, but obviously I take the New York City Subway frequently for work.
 
 ![astei's github stats](https://github-readme-stats.vercel.app/api?username=astei&count_private=true)
 
